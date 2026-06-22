@@ -1,6 +1,6 @@
 name: flutter_confetti_master
 description: "A production-ready celebration and particle animation engine containing multiple confetti effects in a single package."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/flutter_confetti_master
 
 environment:
